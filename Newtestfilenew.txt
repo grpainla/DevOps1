@@ -1,4 +1,8 @@
 THis is DEVOPS local file
 
-test
+tes
+HEAD
 two
+=======
+one
+cd51c6dbd29390b48ec58c44bb73c8369b1f1175
